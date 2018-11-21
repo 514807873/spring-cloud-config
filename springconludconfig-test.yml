@@ -4,3 +4,7 @@ spring:
     url: jdbc:mysql://192.168.10.84:3306/json_test
     username: root
     password: oracle
+    
+sqllist:
+  sql1: select * from zhifubaoData limit 1
+  
