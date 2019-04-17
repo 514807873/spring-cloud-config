@@ -1,9 +1,9 @@
 spring:
   datasource:
     driverClassName : com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.10.84:3306/json_test
+    url: jdbc:mysql://127.0.0.1:3306/xj_ykt
     username: root
-    password: oracle
+    password: 123456
     
 sqllist:
   sql1: select * from zhifubaoData limit 10
