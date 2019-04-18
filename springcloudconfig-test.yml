@@ -5,10 +5,10 @@
     username: root
     password: 123456
     
-custom:
-  mail[0]:
-    username: xxx@xxx.com
-    password: axxx
-  mail[1]:
-    username: xxx@xxx.com
-    password: axxx
+user_sqls:
+  sql[0]:
+    sqlname: get_t_ykt_xsxbxx
+    sqlvalue: select * from  t_ykt_xsxbxx
+  sql[1]:
+    sqlname: get_t_ykt_pkxsxx
+    sqlvalue: select  * from t_ykt_pkxsxx limit 10
