@@ -7,6 +7,6 @@ spring:
 sqllist:
   sqls: 
      - name: t_ykt_pkxsxx
-      sql: select * from t_ykt_pkxsxx limit 10
+       sql: select * from t_ykt_pkxsxx limit 10
      - name: t_ykt_xsxbxx
-      sql: select * from t_ykt_xsxbxx
+       sql: select * from t_ykt_xsxbxx
