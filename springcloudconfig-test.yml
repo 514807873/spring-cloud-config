@@ -4,20 +4,3 @@
     jdbc-url: jdbc:mysql://127.0.0.1:3306/xj_ykt
     username: root
     password: 123456    
-novellist:
-  list:
-    - name: 1
-      type: 2
-      master: 3
-      author: 4
-      description: 5
-    - name: 6
-      type: 7
-      master: 8
-      author: 9
-      description: 9
-    - name: 10
-      type: 11
-      master: 12
-      author: 13
-      description: 14
