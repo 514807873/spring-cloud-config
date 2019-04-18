@@ -7,19 +7,19 @@
     
 novellist:
   list[0]:
-     name: 1
+     name: sql1
      type: 2
      master: 3
      author: 4
      description: 5
   list[1]:
-     name: 6
+     name: sql2
      type: 7
      master: 8
      author: 9
      description: 9
   list[2]:   
-     name: 10
+     name: sql3
      type: 11
      master: 12
      author: 13
