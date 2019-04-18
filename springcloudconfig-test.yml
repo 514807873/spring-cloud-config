@@ -6,7 +6,7 @@ spring:
     password: 123456    
 sqllist:
   sqls: 
-    - name: t_ykt_pkxsxx
+     - name: t_ykt_pkxsxx
       sql: select * from t_ykt_pkxsxx limit 10
-    - name: t_ykt_xsxbxx
+     - name: t_ykt_xsxbxx
       sql: select * from t_ykt_xsxbxx
