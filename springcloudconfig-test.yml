@@ -5,7 +5,7 @@
     username: root
     password: 123456
     
-user_sqls:
+user-sqls:
   sql[0]:
     sqlname: get_t_ykt_xsxbxx
     sqlvalue: select * from  t_ykt_xsxbxx
