@@ -6,5 +6,5 @@ spring:
     password: 123456
     
 sqllist:
-  sql1: select * from zhifubaoData limit 10
+  sql1: select * from t_ykt_pkxsxx limit 10
   
